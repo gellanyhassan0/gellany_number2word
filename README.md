@@ -10,4 +10,4 @@ we refacoring from Bad 'spaghetti code'  https://www.askpython.com/python/exampl
 
 
 
-![alt text](https://github.com/gellanyhassan0/gellany_plots/blob/main/Screenshot_2022-06-22_04-20-28.png?raw=true)<br>
+![alt text](https://github.com/gellanyhassan0/gellany_number2word)/blob/main/Screenshot_2022-06-22_04-20-28.png?raw=true)<br>
