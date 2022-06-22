@@ -1,7 +1,3 @@
-
-import num2words as n2w
-from tkinter import *
-
 class gellany_number2word():
 
      def __init__(self, n = None):
