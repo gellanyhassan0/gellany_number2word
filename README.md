@@ -8,6 +8,6 @@ we refacoring from Bad 'spaghetti code'  https://www.askpython.com/python/exampl
 <code>Number Entered was :  123</code><br>
 <code>Converted to word it becomes: one two three</code><br>
 
-
+<code>python3 gellany_number2word_tk.py</code><br>
 
 ![alt text](https://github.com/gellanyhassan0/gellany_number2word/blob/main/Screenshot_2022-06-22_04-20-28.png?raw=true)<br>
