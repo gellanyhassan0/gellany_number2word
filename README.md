@@ -7,3 +7,7 @@ we refacoring from Bad 'spaghetti code'  https://www.askpython.com/python/exampl
 <code>123</code><br>
 <code>Number Entered was :  123</code><br>
 <code>Converted to word it becomes: one two three</code><br>
+
+
+
+![alt text](https://github.com/gellanyhassan0/gellany_plots/blob/main/Screenshot_2022-06-22_04-20-28.png?raw=true)<br>
