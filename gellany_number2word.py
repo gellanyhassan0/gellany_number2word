@@ -7,13 +7,10 @@ class gellany_number2word():
      def __init__(self, n = None):
               self.n = n
 
-    
-
      def main(self):
 
                  arr = ['zero','one','two','three','four','five','six','seven','eight','nine']
                  
-
                  for i in self.n :
                        print(arr[int(i)], end =" ")
 
