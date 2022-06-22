@@ -8,9 +8,14 @@ we refacoring from Bad 'spaghetti code'  https://www.askpython.com/python/exampl
 <code>Number Entered was :  123</code><br>
 <code>Converted to word it becomes: one two three</code><br>
 
+intgrated three arguements of --mode of options (terminal|gui|web) in one app (python3 gellany_number2word_all.py)
+
 <code>python3 gellany_number2word_all.py --mode terminal</code><br>       // terminal<br>
+
 <code>python3 gellany_number2word_all.py --mode gui</code><br>           // tkinter desktop app<br>
+
 <code>python3 gellany_number2word_all.py --mode web</code><br>          // flask with response by json<br>
+
 
 <code>python3 gellany_number2word_tk.py</code><br>
 
