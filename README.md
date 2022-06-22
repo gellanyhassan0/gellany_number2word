@@ -15,3 +15,6 @@ we refacoring from Bad 'spaghetti code'  https://www.askpython.com/python/exampl
 <code>python3 gellany_number2word_tk_flask.py</code><br>
 
 ![alt text](https://github.com/gellanyhassan0/gellany_number2word/blob/main/Screenshot_2022-06-22_07-28-57.png?raw=true)<br>
+
+![alt text](https://github.com/gellanyhassan0/gellany_number2word/blob/main/Screenshot_2022-06-22_07-29-32.png?raw=true)<br>
+
