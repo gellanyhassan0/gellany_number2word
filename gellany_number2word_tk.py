@@ -23,7 +23,7 @@ class gellany_number2word_tk():
     def main(self):
 
               window = Tk()
-              window.title("Welcome to LikeGeeks app")
+              window.title("Welcome to gellany_number2word")
               window.geometry('350x200')
          
               global lbl
