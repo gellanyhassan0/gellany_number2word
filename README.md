@@ -4,6 +4,6 @@ we refacoring from Bad 'spaghetti code'  https://www.askpython.com/python/exampl
 
 
 <code>python3 gellany_number2word.py</code><br>
-<code>123
-Number Entered was :  123
-Converted to word it becomes: one two three</code><br>
+<code>123</code><br>
+<code>Number Entered was :  123</code><br>
+<code>Converted to word it becomes: one two three</code><br>
