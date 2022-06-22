@@ -27,3 +27,4 @@ intgrated three arguements of --mode of options (terminal|gui|web) in one app (p
 
 ![alt text](https://github.com/gellanyhassan0/gellany_number2word/blob/main/Screenshot_2022-06-22_07-29-32.png?raw=true)<br>
 
+[![asciicast](https://asciinema.org/a/503520.svg)](https://asciinema.org/a/503520)
