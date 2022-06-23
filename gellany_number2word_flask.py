@@ -6,12 +6,11 @@ app = Flask(__name__)
 
 
 @app.route("/")
-
 def my_form():
-    return render_template('my-form.html')
+    return render_template('homepage.html', pagetitle="Homepage")
+
 
 @app.route('/', methods=['POST'])
-
 def main():
                  n = request.form['text']
                  arr = ['zero','one','two','three','four','five','six','seven','eight','nine']
@@ -22,4 +21,11 @@ def main():
 
                  return jsonify(res)
 
-app.run(debug=True)
+
+@app.route("/about")
+def about():
+  return render_template("about.html", pagetitle="About Us")
+
+
+
+app.run(debug=True, port=5000)
