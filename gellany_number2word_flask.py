@@ -31,7 +31,7 @@ def skills():
 
   my_skills = [("Html", 80), ("CSS", 75), ("Python", 95), ("MySQL", 45), ("Go", 35)]
 
-  return render_template("skills.html",title="My Skills",page_head="My Skills",description="This Is My Skills Page", skills=my_skills)
+  return render_template("skills.html",title="My Skills", custom_css="skills", page_head="My Skills",description="This Is My Skills Page", skills=my_skills)
 
 
 @app.route("/about")
